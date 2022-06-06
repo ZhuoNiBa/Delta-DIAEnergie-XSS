@@ -8,3 +8,8 @@ download link：https://downloadcenter.delta-china.com.cn/downloadCenterCounter.
 ### Vulnerability verification process
 1. In the menu "System Settings" - "IoT Hub Settings", submit "<script>alert(123)</script>" in the name field when creating a new "Shift Settings"
 
+![image](https://github.com/ZhuoNiBa/Delta-DIAEnergie-XSS/blob/main/images/Delta-DIAEnergie-XSS_1.png)
+
+2.success
+
+![image](https://github.com/ZhuoNiBa/Delta-DIAEnergie-XSS/blob/main/images/Delta-DIAEnergie-XSS_2.png)
